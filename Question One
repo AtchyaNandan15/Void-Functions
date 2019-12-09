@@ -15,17 +15,20 @@ using namespace std;
 // writing the first function
 
 
+//declares the function 
 void Moon(void);
 
 
 
 main()
 {
-    
+//call the moon function
    Moon(); 
     
 }
 
+
+//writing the function
 void Moon(void){
 
     cout<<"This is the moon in the galaxy by christopher Johnson \n Atchya Nandan";
