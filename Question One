@@ -1,0 +1,57 @@
+/*******************************************************************
+*Atchya Nandan                                                     *
+* Date: september 5th 2019                                         *
+*                                                                  *
+*                                                                  *
+* Dev-C++ 5.11                                                     *
+*                                                                  *
+* purpose: To teach students to write to screen in c++.            *
+********************************************************************/ 
+
+//Bringing in needed librairies
+# include<iostream> 
+using namespace std; 
+
+// writing the first function
+
+
+void Moon(void);
+
+
+
+main()
+{
+    
+   Moon(); 
+    
+}
+
+void Moon(void){
+
+    cout<<"This is the moon in the galaxy by christopher Johnson \n Atchya Nandan";
+  
+    cout<<"                             ___       .                       \n"; 
+    cout<<" .                        _.--~~ __-.                          \n";
+    cout<<"                     ,- +     .-~  ~-}}              .         \n";
+    cout<<"                  ...     -------------     .                  \n";
+    cout<<"                 +     _(         ~                            \n";
+    cout<<"                /      Y                            .          \n";
+    cout<<"               /     (}}                     +                 \n";
+    cout<<"   .          Y     (__                                        \n";
+    cout<<"             |      (                                          \n";    
+    cout<<"            |      (___                                        \n";
+    cout<<"           .        |                    .                     \n";
+    cout<<"            l      _)                                          \n";
+    cout<<" .          ||      l                                          \n";
+    cout<<"     +       ||      ??                                        \n";
+    cout<<"               ||+       }}                                    \n";  
+    cout<<"          .     I          ||^.                  -             \n";
+    cout<<"                  II         ++-._      ~-.___,                \n";
+    cout<<"                  .  III       ++--.._____.^                   \n";
+    cout<<"   .                  ..---------------           .            \n";
+
+} 
+
+
+
+
