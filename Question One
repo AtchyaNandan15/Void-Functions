@@ -1,12 +1,12 @@
-/*******************************************************************
-*Atchya Nandan                                                     *
-* Date: september 5th 2019                                         *
-*                                                                  *
-*                                                                  *
-* Dev-C++ 5.11                                                     *
-*                                                                  *
-* purpose: To teach students to write to screen in c++.            *
-********************************************************************/ 
+/*******************************************************************************
+*Atchya Nandan                                                     
+* Date: December 9th 2019                                                                                                                                                                       
+* Program: Dev-C++ 5.11                                                                                                            
+* purpose: Learn how to use void functions        
+* Question Two
+*
+Data Dictionary 
+********************************************************************************/ 
 
 //Bringing in needed librairies
 # include<iostream> 
