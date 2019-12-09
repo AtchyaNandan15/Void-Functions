@@ -13,7 +13,7 @@ user......................................asks the user for a number
 
 using namespace std;
 
-
+//declares the function
 void DrawOne(void);
 void DrawTwo(void);
 void DrawThree(void);
@@ -22,7 +22,7 @@ int main()
 {
     
     int user;
-
+//calls the function
 cout<<"Enter the number 1,2 or 3";
 cin>>user;
 if(user==1){
@@ -31,15 +31,13 @@ DrawOne();
 else if (user==2){
 DrawTwo();
 }
-
 else if (user==3){
 DrawThree();
-}
-}
+} }
 
 
-
-void DrawOne (void) {
+//writing the function
+    void DrawOne (void) {
     
     cout<<"{:)}";
     
