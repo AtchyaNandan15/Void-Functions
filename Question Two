@@ -1,14 +1,18 @@
-/******************************************************************************
-
-                              Online C++ Compiler.
-               Code, Compile, Run and Debug C++ program online.
-Write your code in this editor and press "Run" button to compile and execute it.
-
-*******************************************************************************/
+/*******************************************************************************
+*Atchya Nandan                                                     
+* Date: December 9th 2019                                                                                                                                                                       
+* Program: Dev-C++ 5.11                                                                                                            
+* purpose: Learn how to use void functions        
+* Question Two
+*
+Data Dictionary 
+user......................................asks the user for a number
+********************************************************************************/ 
 
 #include <iostream>
 
 using namespace std;
+
 
 void DrawOne(void);
 void DrawTwo(void);
@@ -31,9 +35,6 @@ DrawTwo();
 else if (user==3){
 DrawThree();
 }
-
-
-
 }
 
 
